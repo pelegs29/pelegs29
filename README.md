@@ -55,7 +55,7 @@ I am a Third year Computer Science student at Bar-Ilan University <img src="http
 ---
 
 ### :chart: My Stats :
-<span>
+<span align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pelegs29&theme=dark&background=000000)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelegs29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </span>
